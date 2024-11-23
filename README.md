@@ -3,8 +3,7 @@
 1.Clone the repository:
 
 `git clone https://github.com/korzhn066/Modsen.git`
-
-2. Install windows
+2.Install windows
 
 3.Open the solution file Modsen.sln in Visual Studio.
 
